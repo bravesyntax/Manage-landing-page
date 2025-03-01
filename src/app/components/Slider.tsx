@@ -34,7 +34,7 @@ export default function TestimonialsSlider() {
   return (
     <div className="w-full px-4 mx-auto pb-20 md:pb-40">
       <h4 className="text-center text-DarkBlue text-3xl md:text-4xl font-semibold mb-16 md:mb-28">
-        What they've said
+        What they said
       </h4>
 
       <Swiper
